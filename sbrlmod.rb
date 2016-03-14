@@ -7,7 +7,7 @@ class Sbrlmod < Formula
   homepage "https://github.com/margoseltzer/homebrew-sbrlmod/wiki"
   url "https://www.eecs.harvard.edu/~margo/sbrlmod-1.0.tar.gz"
   version "1.0"
-  sha256 "0056714a5c8df93aa622c481b7c2998644fa2b071dcb6c3d7f712b56a8bcb8dd"
+  sha256 "b1087c4eaa3ec8e006ceb832c0b52844f3529f67eeeeeb88c39138222a9b67f8"
   # depends_on "cmake" => :build
   depends_on "gsl"
   depends_on "gmp"
