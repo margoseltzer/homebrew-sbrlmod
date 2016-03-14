@@ -4,8 +4,8 @@
 
 class Sbrlmod < Formula
   desc "Scalable Bayesian Rule Lists. C-library to build a scalable rule list from input data and labels."
-  homepage "https://github.com/margoseltzer/sbrlmod-brew/wiki"
-  url "https://github.com/margoseltzer/sbrlmod-brew"
+  homepage "https://github.com/margoseltzer/homebrew-sbrlmod/wiki"
+  url "https://github.com/margoseltzer/homebrew-sbrlmod"
   version "1.0"
   sha256 "0056714a5c8df93aa622c481b7c2998644fa2b071dcb6c3d7f712b56a8bcb8dd"
   # depends_on "cmake" => :build
